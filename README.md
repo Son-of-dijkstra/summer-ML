@@ -11,3 +11,5 @@ What has been already implemented:
 – makemore2 – implementing MLP for name generation + some experiments with hyperparameters + changed the initialization to avoid "hockey stick" + beat loss (~2.16)
 
 – makemore3 – implementing BatchNorm layer + pytorchify everything + zero initialization experiment + beat loss (~2.11)
+
+– makemore4 – becoming backward pass ninja!(no files here, simply did it on paper)
