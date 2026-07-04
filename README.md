@@ -7,3 +7,7 @@ What has been already implemented:
 – micrograd - autograd engine (tutorial from Andrej Karpathy) + tested on iris dataset from `sklearn.dataset`. I've learned the structure of MLP and how gradient propagation works.
 
 – makemore1 – bigram model for name generation (tutorial from Andrej Karpathy) + trigram + cross-entropy loss + generations of star names (stars in astronomy:D); the dataset is quite small, so works not really well...
+
+– makemore2 – implementing MLP for name generation + some experiments with hyperparameters + changed the initialization to avoid "hockey stick" + beat loss (~2.16)
+
+– makemore3 – implementing BatchNorm layer + pytorchify everything + zero initialization experiment + beat loss (~2.11)
