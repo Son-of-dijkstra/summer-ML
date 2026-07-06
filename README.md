@@ -15,3 +15,6 @@ What has been already implemented:
 - makemore4 – becoming backward pass ninja!(no files here, simply did it on paper)
 
 - makemore5 – wavenet-like mlp implementation + some experiments with hyperparameters + beat loss (~1.992) + really cool names!
+
+
+- nanoGPT – implemented Generatively Pretrained Transformer from scratch! (no nn.Module used) + beat loss (~2.020) + tested with different hyperparameters + tested bigger model on the Kaggle platform (loss ~1.914, ~808k parameters). Learned MultiHead Attention mechanism and its implementation!
