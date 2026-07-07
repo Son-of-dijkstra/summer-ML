@@ -1,0 +1,59 @@
+Total number of parameters: 472385
+Epoch 0/3000: train loss 4.010201930999756, val loss 4.025222301483154
+Epoch 300/3000: train loss 2.3008320331573486, val loss 2.3186233043670654
+Epoch 600/3000: train loss 1.9815106391906738, val loss 2.051051139831543
+Epoch 900/3000: train loss 1.8083325624465942, val loss 1.9350533485412598
+Epoch 1200/3000: train loss 1.6913208961486816, val loss 1.8510513305664062
+Epoch 1500/3000: train loss 1.6163015365600586, val loss 1.7964107990264893
+Epoch 1800/3000: train loss 1.573790431022644, val loss 1.7516319751739502
+Epoch 2100/3000: train loss 1.5267975330352783, val loss 1.7123026847839355
+Epoch 2400/3000: train loss 1.4917325973510742, val loss 1.6948596239089966
+Epoch 2700/3000: train loss 1.4750927686691284, val loss 1.681054711341858
+Epoch 3000/3000: train loss 1.4544645547866821, val loss 1.6533726453781128
+--------------------------------------------------
+GENERATION EXAMPLE
+--------------------------------------------------
+You have with of seem to conscience.
+
+DUKE VINCENTIO:
+But friar, I will't long, and I late, touch mainifes
+with part a go of reyal pack at by manick,
+That justice my feet to shun, cannot chance;
+Where fherewelll wast or your plack yourself.
+
+MENENIUS:
+Perceive is promisonally,
+Lifting woe prilous lord have been your mean to say.
+
+CAMILLO:
+We king yied not murder.
+
+YORK:
+Alt I made peeule: hume speak'd you have; nor were friar
+Forty should?
+
+CAMTER:
+To loving a sword.
+
+HERMIONES:
+O, to God't:
+For I am name! all her to determanallow
+What their asperkled our chapperle
+Will our course us is join, by hearterle.
+
+CHENRY BOLINGBRY:
+For that be dide friar power please comember
+Divered me the spurch'd blush'd that they'r spre
+To all benatiol but sole me.
+
+ISABELLA:
+That say that back purply sitle.
+Tybal we are the firew hangains, argelf more,
+From whence in emparity care of husbaticion,
+If beginced again'd in jet.
+
+AUTONIO:
+I do bettime we his die world at angery.
+
+BRUTUSLINCENTA:
+My lord: bo d
