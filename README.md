@@ -18,3 +18,5 @@ What has been already implemented:
 
 
 - nanoGPT – implemented Generatively Pretrained Transformer from scratch! (no nn.Module used) + beat loss (~2.020) + tested with different hyperparameters + tested bigger model on the Kaggle platform (loss ~1.914, ~808k parameters). Learned MultiHead Attention mechanism and its implementation!
+
+- nanoGPT – implemented Generatively Pretrained Transformer with torch.nn this time + beat loss (~1.65, ~472k parameters) + added SiLU activation + generated 1000 characters (look in `gen_example.txt`)
