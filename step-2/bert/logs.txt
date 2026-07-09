@@ -1,0 +1,13 @@
+#HYPER
+
+embed_size = 96
+num_head = 4
+head_size = embed_size // num_head
+num_blocks = 4
+batch_size = 32
+block_size = 128
+epochs = 17600
+
+#RES
+
+Final: train loss 0.9063778519630432, val loss 1.0959992408752441
