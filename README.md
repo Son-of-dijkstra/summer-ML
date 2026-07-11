@@ -22,3 +22,5 @@ What has been already implemented:
 - nanoGPT – implemented Generatively Pretrained Transformer with torch.nn this time + beat loss (~1.65, ~472k parameters) + added SiLU activation + generated 1000 characters (look in `gen_example.txt`)
 
 - BERT – implemented Bidirectional Encoder Representations from Transformer + beat loss (~1.10, ~472k parameters) + proves that BERT architecture is more powerful that GPT (testes with same hyperparameters) + trained on Kaggle GPU
+
+- POSENC – implemented positional encoding techniques such as basic SinCos used in first Transformer and RoPE – more advanced encoding technique used in most modern LLMs
