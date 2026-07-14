@@ -1,2 +1,4 @@
 step-1/micrograd/__pycache__
 .vscode
+.DS_Store
+.virtual_documents
