@@ -3,3 +3,4 @@ step-1/micrograd/__pycache__
 .DS_Store
 .virtual_documents
 mnist_data/
+astro_dataset/
