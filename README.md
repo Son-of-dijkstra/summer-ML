@@ -29,3 +29,13 @@ I made this repository to track my summer ML practices.
 - **POSENC** – Implemented positional encoding techniques: the basic SinCos encoding used in the original Transformer, and RoPE — a more advanced technique used in most modern LLMs.
 
 - **Caesar-LLM** – Fine-tuned a language model pretrained on plain text to a Caesar-cipher-shifted version of the same language. Full write-up and interesting findings [here](https://github.com/Son-of-dijkstra/summer-ML/blob/main/step-2/ceaser_experiment/Caesar-LLM%20experiment.pdf).
+
+- **CNN practice** — practiced building convolutional neural network modules with `torch.nn.Module`. First time using the `torchvision` library and `DataLoader` from `torch.utils.data`. Trained a [LeNet](https://en.wikipedia.org/wiki/LeNet) analog (~61k parameters) to solve the MNIST classification task, reaching a final accuracy of ~97.17%. And... I liked it :D
+
+- **Star vs Galaxy classification (CNN)** — trained a CNN for the star vs galaxy binary classification task (~40k parameters total). Iterated through 4 attempts:
+  1. Baseline model
+  2. Added ReLU activation and changed the loss function
+  3. Added augmentations and a dropout layer
+  4. Added a learning rate scheduler
+
+  **Best results:** Accuracy ~89%, Weighted-average F1-score ~89%.
