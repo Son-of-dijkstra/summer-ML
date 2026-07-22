@@ -39,3 +39,7 @@ I made this repository to track my summer ML practices.
   4. Added a learning rate scheduler
 
   **Best results:** Accuracy ~89%, Weighted-average F1-score ~89%.
+
+- **Star vs Galaxy classification (ViT)** — implemented ViT(Vision Transformer) from scratch and trained it for the star vs galaxy binary classification task (~220k parameters total). Used a `nn.Dropout` layer and `CosineAnnealingLR` learning rate scheduler.
+
+  **Best results:** Accuracy ~86%, Weighted-average F1-score ~86%.
